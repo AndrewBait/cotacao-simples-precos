@@ -18,3 +18,6 @@ Este projeto tem como objetivo auxiliar na cotação de preços de produtos entr
 4. Clique em "Processar" para realizar a cotação de preços;
 5. Os resultados serão exibidos na interface gráfica do programa.
 
+![Modelo exemplo em Exel de como deve ser o layout para funcionamento](https://github.com/AndrewBait/cotacao-simples-precos/blob/main/Projeto%20simples%20cotacao/__pycache__/Captura%20de%20tela%202023-04-17%20183418.png))
+
+
