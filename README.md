@@ -12,7 +12,7 @@ Este projeto tem como objetivo auxiliar na cotação de preços de produtos entr
 
 ## Como usar
 
-1. Execute o arquivo `cotacao_precos.py`;
+1. Execute o arquivo `main.py`;
 2. Selecione o arquivo Excel com os dados dos produtos e fornecedores;
 3. Escolha o mercado desejado;
 4. Clique em "Processar" para realizar a cotação de preços;
